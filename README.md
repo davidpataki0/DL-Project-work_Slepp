@@ -1,12 +1,12 @@
 # DL-Project-work_Slepp
-Image generation with diffusion models
+Image generation with diffusion models.
 
-Team name: Slepp
+- Team name: **Slepp**
 
-Team members' names and Neptun codes: 
-  - Kányádi Richárd (EPI047)
-  - Pataki Dávid (EWXZA3)
-  - Tasi Zsombor (T0D8GA)
+- Team members' names and Neptun codes: 
+  - **Kányádi Richárd (EPI047)**
+  - **Pataki Dávid (EWXZA3)**
+  - **Tasi Zsombor (T0D8GA)**
   
 ## Project description:
   Implement and train unconditional diffusion models, such as DDPM (Denoising Diffusion Probabilistic Model) or DDIM (Denoising Diffusion Implicit Model) for generating realistic images. Evaluate the capabilities of the models on two different datasets, such as CelebA and Flowers102.
